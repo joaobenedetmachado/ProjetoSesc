@@ -13,3 +13,7 @@ function Projeto3() {
 function Projeto4() {
     window.location = "projetoquatro.html"
 }
+
+function voltar() {
+    window.location = "index.html"
+}
