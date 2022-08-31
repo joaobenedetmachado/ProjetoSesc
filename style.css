@@ -195,3 +195,37 @@ section {
     flex-direction: column;
     margin-bottom: 5%;
 }
+
+.podsesc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20vh;
+    height: 68vh;
+    width: 100%;
+}
+
+.audio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20vh;
+    height: 68vh;
+    width: 100%;
+}
+
+.imgrato {
+    width: 90%;
+}
+
+.podratoimg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+audio {
+    background-color: #f1f3f4;
+    width: 90%;
+}
