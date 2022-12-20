@@ -6,9 +6,14 @@
 body {
     margin: 0;
     background-color: #121214;
+    display: flex;
+    justify-content: center;
 }
 
+
+
 .gradient-bg {
+    width: 400px;
     background: rgb(130,87,229);
     background: linear-gradient(35deg, rgba(130,87,229,1) 0%, rgba(18,18,20,1) 100%);
 }
